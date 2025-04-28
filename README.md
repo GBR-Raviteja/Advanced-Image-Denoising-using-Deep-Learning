@@ -1,4 +1,4 @@
-# Image Denoising Pipeline
+# Image Denoising using Deep Learning
 
 ## Project Overview
 A Colab-based research pipeline for removing synthetic noise from images.  
